@@ -1,0 +1,54 @@
+[
+  {
+    "subjectName": "Discrete Mathematics",
+    "subjectCode": "dm"
+  },
+  {
+    "subjectName": "Theory of Computation",
+    "subjectCode": "toc"
+  },
+  {
+    "subjectName": "Computer Network",
+    "subjectCode": "cn"
+  },
+  {
+    "subjectName": "Database Management System",
+    "subjectCode": "dbms"
+  },
+  {
+    "subjectName": "C Programming",
+    "subjectCode": "cp"
+  },
+  {
+    "subjectName": "Digital Logic",
+    "subjectCode": "dl"
+  },
+  {
+    "subjectName": "Operating System",
+    "subjectCode": "os"
+  },
+  {
+    "subjectName": "Computer Organization & Architecture",
+    "subjectCode": "coa"
+  },
+  {
+    "subjectName": "Data Structure",
+    "subjectCode": "ds"
+  },
+  {
+    "subjectName": "Aptitude",
+    "subjectCode": "a"
+  },
+  {
+    "subjectName": "Engineering Mathematics",
+    "subjectCode": "em"
+  },
+  {
+    "subjectName": "Compiler Design",
+    "subjectCode": "cd"
+  },
+  {
+    "subjectName": "Algorithms",
+    "subjectCode": "algo"
+  }
+]
