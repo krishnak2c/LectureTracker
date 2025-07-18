@@ -2,9 +2,13 @@
 
 LectureTracker is a web application designed to help Computer Science & Engineering students. It provides a structured way to track progress through video lecture series, breaking them down into manageable daily study plans based on user-defined settings.
 
-The application is live at: [https://cseLectureTracker.vercel.app/](https://cseLectureTracker.vercel.app/)
-
-![Project Screenshot]()
+## 🚀 Live Demo
+<div align="center">
+    <a href="https://cselecturetracker.vercel.app" target="_blank">
+      <img src="public/image.png" alt="Project Banner">
+    </a>
+  <br />
+</div>
 
 ## ✨ Features
 
