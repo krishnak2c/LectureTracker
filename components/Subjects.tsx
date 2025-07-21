@@ -124,7 +124,7 @@ const SUBJECTS: {
 
 export const Subjects = () => {
   return (
-    <div className="not-prose grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+    <div className="not-prose grid gap-4 sm:grid-cols-2 md:grid-cols-3">
       {SUBJECTS.map((subject) => (
         <CategoryCard
           key={subject.slug}
@@ -135,7 +135,7 @@ export const Subjects = () => {
           pattern={{
             y: 16,
             squares: [
-              [0, 1],
+              [0, 2],
               [1, 3],
             ],
           }}

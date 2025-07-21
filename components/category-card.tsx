@@ -75,10 +75,6 @@ function CardPattern({ mouseX, mouseY, ...gridProps }: any) {
           {...gridProps}
         />
       </div>
-      {/* <motion.div
-        className="absolute inset-0 rounded-2xl bg-gradient-to-r from-[#2b2b2b] to-[#575757] opacity-0 transition duration-300 group-hover:opacity-100"
-        style={style}
-      /> */}
       <motion.div
         className="absolute inset-0 rounded-2xl opacity-0 mix-blend-overlay transition duration-300 group-hover:opacity-100"
         style={style}

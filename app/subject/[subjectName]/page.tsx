@@ -146,10 +146,11 @@ import { Button } from "@/components/ui/button";
         <h1 className="text-white text-4xl md:text-6xl font-bold mb-4">
           {subject}
         </h1>
-        <p className="text-lg md:text-2xl mt-2 text-white/60 py-2 px-4 max-w-fit rounded-2xl">
+        <div></div>
+        <p className="text-lg md:text-2xl mt-2 text-white/60 py-2 px-4 max-w-fit text-right rounded-2xl bg-slate-900">
           Total Days Left: {totalDaysLeft}
         </p>
-        <p className="text-2xl mt-2 text-white/60 py-2 px-4 max-w-fit rounded-2xl">
+        <p className="text-2xl mt-2 text-white/60 py-2 px-4 text-right rounded-2xl">
           Total Number of Days: {totalDays}
         </p>
       </div>

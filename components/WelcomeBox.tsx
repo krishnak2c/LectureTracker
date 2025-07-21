@@ -17,32 +17,12 @@ const WelcomeBox = () => {
           Engineering students to track progress through video lecture series.
         </Balancer>
       </p>
-      <div className="bg-slate-600 hover:bg-sky-700 rounded-full mt-10">
+      <div className="bg-sky-600 hover:bg-sky-900 border-r-white rounded-full mt-10">
         <Link href="/subject">
           <Button className="rounded-3xl">Begin Preparation</Button>
         </Link>
-      </div>
-      <svg
-        viewBox="0 0 1024 1024"
-        className="absolute left-1/2 top-1/2 -z-10 h-[64rem] w-[64rem] -translate-x-1/2 [mask-image:radial-gradient(closest-side,white,transparent)]"
-        aria-hidden="true"
-      >
-        <circle
-          cx="512"
-          cy="512"
-          r="512"
-          fill="url(#827591b1-ce8c-4110-b064-7cb85a0b1217)"
-          fillOpacity="0.8"
-        ></circle>
-        <defs>
-          <radialGradient id="827591b1-ce8c-4110-b064-7cb85a0b1217">
-            <stop stopColor="#0061ff"></stop>
-            <stop offset="1" stopColor="#60efff"></stop>
-          </radialGradient>
-        </defs>
-      </svg>
-    </div>
-  );
-};
+      </div></div>
+  )}
+
 
 export default WelcomeBox;
